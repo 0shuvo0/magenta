@@ -18,4 +18,5 @@ magenta.run()
 ```
 
 
-*Tutorial will be available soon.*
+*Tutorial Available on* [YouTube](https://www.youtube.com/watch?v=tb3eIEFgvKQ)
+[![preview](thumbnail.png)](https://www.youtube.com/watch?v=tb3eIEFgvKQ)
