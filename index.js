@@ -156,6 +156,7 @@ class Magenta{
 
 const codes = 
 `print "hello world"
-print "hello world"`
+var msg = "secret message"
+print msg`
 const magenta = new Magenta(codes)
 magenta.run()
